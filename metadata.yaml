@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6006
     wikipedia: http://fi.wikipedia.org/wiki/Robert_Kiljander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15339#Vieraita-odottaessaHuvin-ytelm--yhdess--n-yt-ksess-
 gutenberg_issued: '2005-03-12'
 gutenberg_type: Text
 identifiers:
