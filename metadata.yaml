@@ -1,0 +1,29 @@
+_repo: Vieraita-odottaessaHuvin-ytelm--yhdess--n-yt-ksess-_15339
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kiljander, Robert
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '6006'
+    url: http://www.gutenberg.org/2009/agents/6006
+    wikipedia: http://fi.wikipedia.org/wiki/Robert_Kiljander
+description: ''
+gutenberg_issued: '2005-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15339'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+title: 'Vieraita odottaessa
+
+  Huvinäytelmä yhdessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/15339
